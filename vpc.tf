@@ -7,5 +7,5 @@ module "vpc" {
   instance_tenancy = "dedicated"
 
   tags = {
-    Name = "main"
+    Name = "main-nolan"
 }
